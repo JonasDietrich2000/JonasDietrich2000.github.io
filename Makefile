@@ -1,4 +1,5 @@
 all:
+	git pull
 	git subtree add --prefix site origin gh-pages
 	docker run --rm --user 1000 -it -v ${PWD}:/docs squidfunk/mkdocs-material build
 	git add site/
