@@ -8,4 +8,4 @@ Im Laufe des 2. Semesters ist eine Zeichenmappe entstanden, welche vielerlei Mot
 ![pic](fuenf/Zeichnung2.png)
 
 ## Dokumentation
-Die ganze Zeichenmappe können Sie [hier](Zeichenmappe.pdf) ansehen.
+Die ganze Zeichenmappe können Sie [hier](fuenf/Zeichenmappe.pdf) ansehen.
