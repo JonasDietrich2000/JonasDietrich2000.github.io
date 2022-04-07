@@ -13,4 +13,4 @@ Als Teil eines vierköpfigen Teams war ich für die Winterinsel zuständig, wobe
 </div>
 
 ## Dokumentation
-Die ausführliche Dokumentation zu dem Spiel können Sie bei Bedarf [hier](zwei/Dokumentation Adventure Island.pdf) nachlesen.
+Die ausführliche Dokumentation zu dem Spiel können Sie bei Bedarf [hier](Dokumentation Adventure Island.pdf) nachlesen.
