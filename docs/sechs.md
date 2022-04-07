@@ -4,6 +4,7 @@ Im folgenden sehen Sie eine Auswahl veschiedener Übungsaufgaben, die im Rahmen 
 
 ## Binärzähler
 Funktion: Visualisierung von Zahlen in Binärdarstellung als Char (8 Bit) oder Integer (32 Bit)
+
 Themen: Bitshifting
 
 ![pic](sechs/Prog1a.png)
@@ -22,6 +23,7 @@ Themen: Rekursion
 
 ## Grafikgitter
 Funktion: Erzeugung von wiederholenden Mustern und Darstellung von Bildern bei skalierbarer Quadratgröße und Auflösung
+
 Themen: Ausnahmenbehandling (try/catch), dynamische Arrays, Wiederholung Vererbung
 
 ![pic](sechs/Prog3a.png)
@@ -33,6 +35,7 @@ Themen: Ausnahmenbehandling (try/catch), dynamische Arrays, Wiederholung Vererbu
 
 ## Matrizenrechner
 Funktion: Berechnen von Operationen auf selbst definierten Vektor- und Matrixklassen
+
 Themen: Templates, Operatorüberladung, R- und L-Values
 
 ![pic](sechs/Prog4a.png)
@@ -42,6 +45,7 @@ Themen: Templates, Operatorüberladung, R- und L-Values
 
 ## Alternative Funktionsaufrufe
 Funktion: Aufruf von Funktionen ohne die Verwendung herkömmlicher Funktionsaufrufe
+
 Themen: Funktoren, Lambda-Ausdrücke, Funktionsobjekte
 
 ![pic](sechs/Prog5.png)
