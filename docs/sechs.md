@@ -14,6 +14,7 @@ Themen: Bitshifting
 
 ## Dreieck
 Funktion: /
+
 Themen: Rekursion
 
 ![pic](sechs/Prog2a.png)
